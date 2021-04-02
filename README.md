@@ -21,7 +21,7 @@ You must have either a physical DGS2 cartridge inserted or a digital DGS2 copy i
 2. Extract the release to the root of your 3DS SD Card. `DGS2-Patcher.firm` goes into `sd:/luma/payloads/`, `DGS2-PatchData-v2.X.X.bps` goes into `sd:/3DS/ScarletStudy/`.
 3. Hold START while booting your 3DS and choose `DGS2-Patcher` from the menu and confirm with A. **Make sure you see the Great Ace Attorney 2 logo on the top screen before you proceed - if you don't see it, start over or ask on Discord**, then press A to begin patching. If you don't see the Great Ace Attorney 2 logo on the top screen, you probably booted into GodMode9 or a different payload by mistake. Turn off your 3DS and try again.
 4. Patching will take about two minutes. After it is complete, press A again and your 3DS will restart.
-5. Launch FBI and navigate to `SD:/3DS/ScarletStudy/DGS2-English-v2.X.X.cia`, then install it.
+5. This new version installs the patch for you. **No need to install anything with FBI.**
 
 ### **DO NOT INSTALL THE PATCHER TO YOUR FIRM PARTITION. IF YOU END UP IN GODMODE9 IN STEP 3, YOU DID SOMETHING WRONG!**
 
